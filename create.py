@@ -2,7 +2,7 @@ import sys
 import os
 from github import Github
 
-path = "/Users/kalle/Documents/Projects/MyProjects/"
+path = "/Users/rileybusche/Development/"
 
 username = "" #Insert your github username here
 password = "" #Insert your github password here
